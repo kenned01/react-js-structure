@@ -1,0 +1,6 @@
+const ERRORS = [
+];
+
+export {
+  ERRORS
+}
